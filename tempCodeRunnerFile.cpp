@@ -1,11 +1,5 @@
-
-    string arr[20];
-    fi >> m >> n;
-    int tong = m * n;
-    for (int i = 0; i < n; i++)
+for (int i = 0; i < n; i++)
     {
-        fi >> arr[i];
+        arr2++;
+        cout << *arr2 << endl;
     }
-    for (int i = 0; i < n; i++)
-    {
-        for (int j = 0; j < m; j++)
