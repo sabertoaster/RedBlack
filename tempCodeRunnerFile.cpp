@@ -1,5 +1,9 @@
-for (int i = 0; i < n; i++)
-    {
-        arr2++;
-        cout << *arr2 << endl;
-    }
+
+            if (sample[a - 1][b] == '0')
+            {
+                up = "no";
+            }
+            else if (sample[a - 1][b] == '1')
+            {
+                up = "yes";
+            }
